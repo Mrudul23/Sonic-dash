@@ -24,7 +24,7 @@ function preload() {
     SonicAni=loadAnimation("images/Sonic (1).png","images/Sonic (2).png","images/Sonic (3).png","images/Sonic (4).png","images/Sonic (5).png","images/Sonic (6).png","images/Sonic (7).png","images/Sonic (8).png");
     mushImg=loadImage("images/mushroom.jpg");
     cupImage = loadImage("images/cup.png")
-    logo = loadImage("images/Sonic.png")
+    logo = loadImage("images/sonic.png")
     inst = loadImage("images/inst.png")
 }
 function setup() {
