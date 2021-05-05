@@ -21,10 +21,10 @@ function preload() {
     bombImg1=loadImage("images/bomb.png");
     lifeImg=loadImage("images/life.png");
     coinImg=loadImage("images/coin.png");
-    SonicAni=loadAnimation("images/sonic (1).png","images/sonic (2).png","images/sonic (3).png","images/sonic (4).png","images/sonic (5).png","images/sonic (6).png","images/sonic (7).png","images/sonic (8).png");
+    SonicAni=loadAnimation("images/Sonic (1).png","images/Sonic (2).png","images/Sonic (3).png","images/Sonic (4).png","images/Sonic (5).png","images/Sonic (6).png","images/Sonic (7).png","images/Sonic (8).png");
     mushImg=loadImage("images/mushroom.jpg");
     cupImage = loadImage("images/cup.png")
-    logo = loadImage("images/sonic.png")
+    logo = loadImage("images/Sonic.png")
     inst = loadImage("images/inst.png")
 }
 function setup() {
